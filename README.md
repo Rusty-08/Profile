@@ -3,8 +3,8 @@
 ## Hi! I'm Rusty 👋
 
 - :seedling: Aspiring Frontend Developer
-- :computer: I’m currently learning about React and Typescript.
-- :technologist: I am looking to collborate with other developers
+- :computer: I’m currently learning React JS and Typescript
+- :technologist: I am looking for collaboration with other developers
 - :speech_balloon: Feel free to [**reach me out**](#connect-with-me)
 
 <hr>
